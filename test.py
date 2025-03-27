@@ -1,5 +1,4 @@
-my_list = [1, 2, 3, 9, 7]
-
-for num in my_list:
-    print(num)
-
+com = ['push','1']
+c = com[0]
+c2 = com[1]
+print(c,c2)
